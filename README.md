@@ -1,2 +1,2 @@
 # amy-learning
-something about AutoML
+Some Exercise About Graph Model
